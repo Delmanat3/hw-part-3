@@ -1,6 +1,6 @@
 # hw-part-3
- changed every div to a section and added a header and footer
-some navs i think as well
+ changed the non sematic HTML to more friendly tags
+ mostly involved altering div tags
 ## assign
 I was tasked with refracting the giving code
 
